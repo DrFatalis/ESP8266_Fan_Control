@@ -10,6 +10,8 @@ Electronics drawing:
 
 ![ESP8266](/README/ESP8266.JPG)
 
+![Elec](/README/Electronics.jpg)
+
 Web Interface:
 
 ![Web interface](/README/WebServer.JPG)
